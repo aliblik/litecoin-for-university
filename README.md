@@ -193,3 +193,5 @@ Best Regards!
 Please note that this document, or any part of it, may not be shared or used without the author's permission. The author's email address can be found at the end of the document. Best regards.
 --------------
 Hi, very good news;) !!! We have a new, truly major client for high-volume, rapid payments using Litecoin technology. The client is currently preparing a project draft (including detailed specifications) that incorporates our technology. Please refresh your knowledle of our used technology and Litecoin. BRs
+--------------
+Hi, I have just sent storyboard from new customer (183 pages). Please have a look. BRs
